@@ -14,5 +14,5 @@ This program consists of four steps in all:
 1. Picking the best chromes.
 2. Crossover to generate the child.
 3. Mutation with low probability.
-4.Loop termination.
+4. Loop termination.
    
